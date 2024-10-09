@@ -8,6 +8,21 @@
                 "total":"Approximately 10 minutes",
                 "preparation":"5 minutes",
                 "cooking":"5 minutes"
+            },
+            "ingredients":[
+                "2-3 large egss",
+                "Salt, to taste",
+                "Pepper, to taste",
+                "1 tablespoon of butter or oil",
+                "Optional fillings: cheese, diced vegetables, cooked meats, herbs"
+            ],
+            "instructions":{
+                "Beat the eggs":"in a bowl, beat the eggs with a pinch of salt and pepper until they are well mixed. You can add a tablespoon of water of milk for a fluffier texture.",
+                "Heat the pan":"Place a non-stick frying pan over medium heat and add butter or oil",
+                "Cook the omelette":"Once the butter is melted an bubbling, pour in the eggs evenly coat the surface.",
+                "Add fillings (optional)":"When the eggs begin to set at the edges but are still slightly runny in the middle, sprinkle your chosen fillings over one half of the omelette.",
+                "Fold and serve":"As the omelette continues to cook, carefuly lift one edge and fold it over the fillings. Let it cook fon another minute, then slide it onto a plate.",
+                "Enjoy":"Serve hot, with additional salt and pepper if needed"
             }
         }
     ]
