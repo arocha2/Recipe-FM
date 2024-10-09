@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: 'title';
+  src: url(/src/assets/fonts/young-serif/YoungSerif-Regular.ttf);
+}
+@font-face {
+  font-family: 'paragraph';
+  src: url(/src/assets/fonts/outfit/Outfit-VariableFont_wght.ttf);
+}
