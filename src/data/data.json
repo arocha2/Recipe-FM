@@ -23,6 +23,12 @@
                 "Add fillings (optional)":"When the eggs begin to set at the edges but are still slightly runny in the middle, sprinkle your chosen fillings over one half of the omelette.",
                 "Fold and serve":"As the omelette continues to cook, carefuly lift one edge and fold it over the fillings. Let it cook fon another minute, then slide it onto a plate.",
                 "Enjoy":"Serve hot, with additional salt and pepper if needed"
+            },
+            "nutrition":{
+                "Calories":"277kcal",
+                "Carbs": "0g",
+                "Protein":"20g",
+                "Fat":"22g"
             }
         }
     ]
