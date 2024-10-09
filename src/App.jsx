@@ -1,6 +1,7 @@
 import { Header } from "./Components/Header";
 import { Preparation } from "./Components/Preparation";
 import { Recipes } from "../src/data/data.json";
+import { Ingredients } from "./Components/Ingredients";
 
 export const App = () => {
   console.log(Recipes);
@@ -10,6 +11,7 @@ export const App = () => {
         <section key={recipe.id}>
           <Header title={recipe.title} description={recipe.description} />
           <Preparation prep={recipe.preparation_time} />
+          <Ingredients ingredients={recipe.ingredients} />
         </section>
       ))}
     </>
